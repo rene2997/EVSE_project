@@ -1,0 +1,5 @@
+{
+    "board": "arduino:samd:mkr1000",
+    "sketch": "arduinoProject.ino",
+    "port": "/dev/tty.usbmodem21401"
+}
